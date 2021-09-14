@@ -1,5 +1,7 @@
 # cs573-final-project   Geospatial-Macronutrients
 
+Authors: Junying Li, Jason King, Ryan LaMarche, Michael Osei
+
 Link to working example: https://junying-li.github.io/Geospatial-Macronutrients/public/index.html
 
 Link to video: https://www.youtube.com/watch?v=3Kup9t8jjlw
