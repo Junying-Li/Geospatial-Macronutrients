@@ -1,6 +1,30 @@
-# cs573-final-project
+# cs573-final-project   Geospatial-Macronutrients
 
-## Data API
+Link to working example: https://junying-li.github.io/Geospatial-Macronutrients/public/index.html
+
+Link to video: https://www.youtube.com/watch?v=3Kup9t8jjlw
+
+Read the process book: https://github.com/Junying-Li/Geospatial-Macronutrients/blob/main/Process%20Book.pdf
+
+## Data
+
+`public/macronutrient-data.csv` - macronutrients over time
+
+`public/overweight.csv` - BMI over time
+
+`public/world-110m2.json` - geoJSON
+
+`public/world-country-names.csv` - names of countries
+
+## Code
+
+All of the front end code will be found in `public/index.html`
+
+External libraries include jquery, d3.js, dc.js, and crossfilter.js.
+
+## Serverside Data API
+
+We built a server side API for querying the macro nutrient data.
 
 Data is sorted by year in ascending order, then by country in ascending order
 
