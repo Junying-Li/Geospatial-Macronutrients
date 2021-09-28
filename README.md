@@ -1,4 +1,4 @@
-# cs573-final-project   Geospatial-Macronutrients
+# Geospatial-Macronutrients
 
 Authors: Junying Li, Jason King, Ryan LaMarche, Michael Osei
 
